@@ -633,10 +633,6 @@ body {
   min-width: 200px;
 }
 
-.movie-card .card-banner {
-  max-width: 200px;
-}
-
 .movie-card .title {
   width: 100%;
   white-space: nowrap;
