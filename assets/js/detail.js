@@ -63,7 +63,7 @@ fetchDataFromServer(
       videos: { results: videos },
     } = movie;
 
-    document.title = `${title} - MovieZone`;
+    document.title = `${title} - Filmopedia`;
 
     const movieDetail = document.createElement("div");
     movieDetail.classList.add("movie-detail");
