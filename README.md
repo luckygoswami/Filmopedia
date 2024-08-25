@@ -14,6 +14,11 @@
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** TMDB API used to fetch details
 
+## Screenshots
+
+![screenshot](assets/webMockup.png)
+![screenshot](assets/mockup.png)
+
 ## Explore Filmopedia
 
 Discover Filmopedia live at: [Filmopedia](https://luckygoswami.github.io/Filmopedia)
