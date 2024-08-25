@@ -54,7 +54,7 @@ export function sidebar() {
 
     <div class="sidebar-footer">
       <p class="copyright">
-        Copyright 2024 <a href="www.github.com/luckygoswami">Lucky Goswami</a>
+        Copyright 2024 <a href="https://www.github.com/luckygoswami" target="_blank">Lucky Goswami</a>
       </p>
       <img
         src="assets/images/tmdb-logo.svg"
