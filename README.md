@@ -16,7 +16,7 @@
 
 ## Screenshots
 
-![browser_screen_mockup](https://github.com/user-attachments/assets/a8c19110-867c-4609-85f1-01716b9446ba)
+![browser_screen_mockup](https://github.com/user-attachments/assets/417c2f90-ef54-4931-9bab-cf55898ec174)
 ![multiple_screens_mockup](https://github.com/user-attachments/assets/f943beb3-869d-4ae0-9742-a56cbc7ad556)
 
 ## Explore Filmopedia
