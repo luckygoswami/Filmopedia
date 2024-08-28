@@ -17,7 +17,6 @@
 ## Screenshots
 
 ![browser_screen_mockup](https://github.com/luckygoswami/assets/blob/main/Filmopedia/browser_view_mockup.png?raw=true)
-![multiple_screens_mockup](https://github.com/luckygoswami/assets/blob/main/Filmopedia/homepage%20overview.gif?raw=true)
 ![multiple_screens_mockup](https://github.com/luckygoswami/assets/blob/main/Filmopedia/multiple_screens_mockup.png?raw=true)
 
 ## Explore Filmopedia
